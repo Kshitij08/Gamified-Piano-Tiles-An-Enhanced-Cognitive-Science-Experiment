@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/DiGiS/Winter '17/CarAi(0)/Assets/15.unity
+  isLoaded: 1
+  isActive: 1
